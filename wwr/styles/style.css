@@ -83,7 +83,7 @@ footer {
     background-color: #CD6E37;
     color: black;
     padding: 25px 50px;
-    margin-top: 200px;
+    margin-top: 50px;
 }
 
 .home-title {
@@ -165,4 +165,8 @@ footer .social img {
 
 .card-img {
     border: 10px solid #BEEB82;
+}
+
+#mountain_footer {
+    background-color: #CD6E37;
 }
